@@ -11,8 +11,12 @@
             "id": "19df42dd603c2a60",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Learnings/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learnings/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learnings/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learnings/Untitled.md"
+              }
             }
           }
         ]
@@ -138,9 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19df42dd603c2a60",
+  "active": "c3afd2d0247ad17c",
   "lastOpenFiles": [
+    "Untitled",
     "README.md",
+    "Learnings/Untitled.md",
+    "Goya",
+    "Learnings",
     "Welcome.md"
   ]
 }
