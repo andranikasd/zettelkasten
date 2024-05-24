@@ -1,0 +1,3 @@
+- ### [HoneyComb LX2](https://shop.solid-run.com/product/SRLX216S00D00GE064H09CH/)
+- ### [Bedrock R800](https://www.cnx-software.com/2024/04/12/solidruns-bedrock-r8000-industrial-pc-amd-ryzen-embedded-8000-series/)
+- ### [SolidRun (Company)](https://www.solid-run.com/press-releases/solidrun-launches-bedrock-r8000-future-proof-edge-ai/)

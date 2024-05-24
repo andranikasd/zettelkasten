@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d7c1555589f14880",
+        "id": "43facade67c31459",
         "type": "tabs",
         "children": [
           {
-            "id": "19df42dd603c2a60",
+            "id": "ca44897d005b8994",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learnings/Untitled.md",
+                "file": "Goya/Boo/Portable Computing Setup Investigation Documentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4102ced75eb8c67a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goya/Boo/Portable Computing Setup Investigation Documentation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "844d5651778fbdc1",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learnings/Untitled.md",
+                "file": "Goya/Boo/Portable Computing Setup Investigation Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learnings/Untitled.md",
+                "file": "Goya/Boo/Portable Computing Setup Investigation Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learnings/Untitled.md"
+                "file": "Goya/Boo/Portable Computing Setup Investigation Documentation.md"
               }
             }
           }
@@ -146,13 +159,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3afd2d0247ad17c",
+  "active": "4102ced75eb8c67a",
   "lastOpenFiles": [
-    "Untitled",
-    "README.md",
-    "Learnings/Untitled.md",
+    "Goya/Boo/Cluster presentation - 2nd session.md",
+    "Goya/Boo/Portable Computing Setup Investigation Documentation.md",
+    "Goya/Boo/README.md",
+    "Gambit/Hardware.md",
+    "Learnings/LPIC-1/103.6.-modify-process-execution-priorities-1.md",
+    "Learnings/LPIC-1/104.2.-maintain-the-integrity-of-filesystems.md",
+    "Gambit/README.md",
+    "Gambit/CNPG PostgreSQL Operator Resource Validation Guide.md",
+    "Zettelkasten.md",
+    "Gambit",
+    "Goya/README.md",
+    "Learnings/LPIC-1/SUMMARY.md",
+    "Goya/Gmabit",
+    "Investigations/K3s Sup.md",
+    "Learnings/README.md",
+    "Learnings/LPIC-1/README.md",
+    "Investigations/buying list/Tech.md",
+    "Investigations/buying list",
+    "Investigations",
+    "Untitled 1",
+    "Learnings/LPIC-1/102.1.-design-hard-disk-layout.md",
+    "Goya/Boo",
+    "Learnings/LPIC-1/101.2.-boot-the-system.md",
+    "Learnings/LPIC-1/101.1.-determine-and-configure-hardware-settings.md",
+    "Learnings/LPIC-1/101.3.-change-runlevels-and-shutdown-or-reboot-system.md",
+    "Learnings/LPIC-1/106.3.-accessibility.md",
+    "Learnings/LPIC-1/106.2.-setup-a-display-manager.md",
+    "Learnings/LPIC-1/106.1.-install-and-configure-x11.md",
+    "Learnings/LPIC-1/105.3.-sql-data-management.md",
+    "Learnings/LPIC-1/105.2.-customize-or-write-simple-scripts.md",
+    "Learnings/LPIC-1/105.1.-customize-and-use-the-shell-environment-1.md",
+    "Learnings/LPIC-1/104.7.-find-system-files-and-place-files-in-the-correct-location.md",
+    "Learnings/LPIC-1",
     "Goya",
-    "Learnings",
-    "Welcome.md"
+    "Learnings"
   ]
 }
